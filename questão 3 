@@ -1,0 +1,14 @@
+function numeros(n1,n2){
+  let dividir = n1/n2 
+  let multiplicar = n1*n2
+  let subtrair = n1-n2
+  let somar = n1+n2
+ console.log(somar)
+ console.log(subtrair)
+ console.log(multiplicar)
+ console.log(dividir)
+ }
+numeros(10,5)
+
+
+

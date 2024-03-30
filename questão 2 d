@@ -1,0 +1,6 @@
+function imprima(){
+ let nome = "wesley" 
+console.log(nome.toUpperCase())
+          
+}
+imprima()
